@@ -1,0 +1,10 @@
+## Prerequisites
+Python 3.8+
+pip install pandas lxml xmltodict
+## Libraries Used
+  xml.etree.ElementTree / lxml — XML tree traversal and tag parsing
+  xmltodict — XML to dictionary conversion for easier flattening
+  pandas — DataFrame transformations and export
+  re — Regex-based text parsing (optional)
+  logging — Logging and pipeline audit trail
+
